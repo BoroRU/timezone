@@ -1,0 +1,76 @@
+2021-10-29T19:18:18+00:00 CRITICAL Uncaught Error: Class "WPGMZA\Integration\Gutenberg" not found in C:\OpenServer\domains\tine-zan\wp-content\plugins\wp-google-maps\includes\class.plugin.php:83
+Stack trace:
+#0 [internal function]: WPGMZA\Plugin->__construct()
+#1 C:\OpenServer\domains\tine-zan\wp-content\plugins\wp-google-maps\includes\class.factory.php(55): ReflectionClass->newInstanceArgs()
+#2 C:\OpenServer\domains\tine-zan\wp-content\plugins\wp-google-maps\includes\class.plugin.php(476): WPGMZA\Factory::createInstance()
+#3 C:\OpenServer\domains\tine-zan\wp-content\plugins\wp-google-maps\includes\class.plugin.php(483): WPGMZA\create()
+#4 C:\OpenServer\domains\tine-zan\wp-includes\class-wp-hook.php(287): WPGMZA\{closure}()
+#5 C:\OpenServer\domains\tine-zan\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters()
+#6 C:\OpenServer\domains\tine-zan\wp-includes\plugin.php(478): WP_Hook->do_action()
+#7 C:\OpenServer\domains\tine-zan\wp-settings.php(409): do_action()
+#8 C:\OpenServer\domains\tine-zan\wp-config.php(89): require_once('C:\\OpenServer\\d...')
+#9 C:\OpenServer\domains\tine-zan\wp-load.php(37): require_once('C:\\OpenServer\\d...')
+#10 C:\OpenServer\domains\tine-zan\wp-blog-header.php(13): require_once('C:\\OpenServer\\d...')
+#11 C:\OpenServer\domains\tine-zan\index.php(17): require('C:\\OpenServer\\d...')
+#12 {main}
+  thrown в C:\OpenServer\domains\tine-zan\wp-content\plugins\wp-google-maps\includes\class.plugin.php на строке 83
+
+2021-10-29T19:23:41+00:00 CRITICAL Uncaught Error: Class "WPGMZA\Integration\Gutenberg" not found in C:\OpenServer\domains\tine-zan\wp-content\plugins\wp-google-maps\includes\class.plugin.php:83
+Stack trace:
+#0 [internal function]: WPGMZA\Plugin->__construct()
+#1 C:\OpenServer\domains\tine-zan\wp-content\plugins\wp-google-maps\includes\class.factory.php(55): ReflectionClass->newInstanceArgs()
+#2 C:\OpenServer\domains\tine-zan\wp-content\plugins\wp-google-maps\includes\class.plugin.php(476): WPGMZA\Factory::createInstance()
+#3 C:\OpenServer\domains\tine-zan\wp-content\plugins\wp-google-maps\includes\class.plugin.php(483): WPGMZA\create()
+#4 C:\OpenServer\domains\tine-zan\wp-includes\class-wp-hook.php(287): WPGMZA\{closure}()
+#5 C:\OpenServer\domains\tine-zan\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters()
+#6 C:\OpenServer\domains\tine-zan\wp-includes\plugin.php(478): WP_Hook->do_action()
+#7 C:\OpenServer\domains\tine-zan\wp-settings.php(409): do_action()
+#8 C:\OpenServer\domains\tine-zan\wp-config.php(89): require_once('C:\\OpenServer\\d...')
+#9 C:\OpenServer\domains\tine-zan\wp-load.php(37): require_once('C:\\OpenServer\\d...')
+#10 C:\OpenServer\domains\tine-zan\wp-blog-header.php(13): require_once('C:\\OpenServer\\d...')
+#11 C:\OpenServer\domains\tine-zan\index.php(17): require('C:\\OpenServer\\d...')
+#12 {main}
+  thrown в C:\OpenServer\domains\tine-zan\wp-content\plugins\wp-google-maps\includes\class.plugin.php на строке 83
+
+2021-10-29T19:23:43+00:00 CRITICAL Uncaught Error: Class "WPGMZA\Integration\Gutenberg" not found in C:\OpenServer\domains\tine-zan\wp-content\plugins\wp-google-maps\includes\class.plugin.php:83
+Stack trace:
+#0 [internal function]: WPGMZA\Plugin->__construct()
+#1 C:\OpenServer\domains\tine-zan\wp-content\plugins\wp-google-maps\includes\class.factory.php(55): ReflectionClass->newInstanceArgs()
+#2 C:\OpenServer\domains\tine-zan\wp-content\plugins\wp-google-maps\includes\class.plugin.php(476): WPGMZA\Factory::createInstance()
+#3 C:\OpenServer\domains\tine-zan\wp-content\plugins\wp-google-maps\includes\class.plugin.php(483): WPGMZA\create()
+#4 C:\OpenServer\domains\tine-zan\wp-includes\class-wp-hook.php(287): WPGMZA\{closure}()
+#5 C:\OpenServer\domains\tine-zan\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters()
+#6 C:\OpenServer\domains\tine-zan\wp-includes\plugin.php(478): WP_Hook->do_action()
+#7 C:\OpenServer\domains\tine-zan\wp-settings.php(409): do_action()
+#8 C:\OpenServer\domains\tine-zan\wp-config.php(89): require_once('C:\\OpenServer\\d...')
+#9 C:\OpenServer\domains\tine-zan\wp-load.php(37): require_once('C:\\OpenServer\\d...')
+#10 C:\OpenServer\domains\tine-zan\wp-blog-header.php(13): require_once('C:\\OpenServer\\d...')
+#11 C:\OpenServer\domains\tine-zan\index.php(17): require('C:\\OpenServer\\d...')
+#12 {main}
+  thrown в C:\OpenServer\domains\tine-zan\wp-content\plugins\wp-google-maps\includes\class.plugin.php на строке 83
+
+2021-10-29T19:28:56+00:00 CRITICAL Uncaught Error: Class "WPGMZA\Integration\Gutenberg" not found in C:\OpenServer\domains\timezone\wp-content\plugins\wp-google-maps\includes\class.plugin.php:83
+Stack trace:
+#0 [internal function]: WPGMZA\Plugin->__construct()
+#1 C:\OpenServer\domains\timezone\wp-content\plugins\wp-google-maps\includes\class.factory.php(55): ReflectionClass->newInstanceArgs()
+#2 C:\OpenServer\domains\timezone\wp-content\plugins\wp-google-maps\includes\class.plugin.php(476): WPGMZA\Factory::createInstance()
+#3 C:\OpenServer\domains\timezone\wp-content\plugins\wp-google-maps\includes\class.plugin.php(483): WPGMZA\create()
+#4 C:\OpenServer\domains\timezone\wp-includes\class-wp-hook.php(287): WPGMZA\{closure}()
+#5 C:\OpenServer\domains\timezone\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters()
+#6 C:\OpenServer\domains\timezone\wp-includes\plugin.php(478): WP_Hook->do_action()
+#7 C:\OpenServer\domains\timezone\wp-settings.php(409): do_action()
+#8 C:\OpenServer\domains\timezone\wp-config.php(89): require_once('C:\\OpenServer\\d...')
+#9 C:\OpenServer\domains\timezone\wp-load.php(37): require_once('C:\\OpenServer\\d...')
+#10 C:\OpenServer\domains\timezone\wp-blog-header.php(13): require_once('C:\\OpenServer\\d...')
+#11 C:\OpenServer\domains\timezone\index.php(17): require('C:\\OpenServer\\d...')
+#12 {main}
+  thrown в C:\OpenServer\domains\timezone\wp-content\plugins\wp-google-maps\includes\class.plugin.php на строке 83
+
+2021-10-29T20:31:41+00:00 CRITICAL syntax error, unexpected 'array' (T_ARRAY), expecting ')' в C:\OpenServer\domains\timezone\wp-content\themes\timezone\inc\redux-components\about\main.php на строке 26
+
+2021-10-29T20:32:00+00:00 CRITICAL syntax error, unexpected 'array' (T_ARRAY), expecting ')' в C:\OpenServer\domains\timezone\wp-content\themes\timezone\inc\redux-components\about\main.php на строке 26
+
+2021-10-29T20:32:05+00:00 CRITICAL syntax error, unexpected 'array' (T_ARRAY), expecting ')' в C:\OpenServer\domains\timezone\wp-content\themes\timezone\inc\redux-components\about\main.php на строке 26
+
+2021-10-29T20:44:45+00:00 CRITICAL Cannot use [] for reading в C:\OpenServer\domains\timezone\wp-content\themes\timezone\template-about.php на строке 45
+

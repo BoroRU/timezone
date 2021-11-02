@@ -1,0 +1,12 @@
+2021-10-30T14:21:47+00:00 CRITICAL Uncaught Error: Call to undefined function det_template_directory_uri() in C:\OpenServer\domains\timezone\wp-content\themes\timezone\header.php:32
+Stack trace:
+#0 C:\OpenServer\domains\timezone\wp-includes\template.php(730): require_once()
+#1 C:\OpenServer\domains\timezone\wp-includes\template.php(676): load_template('C:\\OpenServer\\d...', true, Array)
+#2 C:\OpenServer\domains\timezone\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\OpenServer\domains\timezone\wp-content\themes\timezone\template-about.php(7): get_header()
+#4 C:\OpenServer\domains\timezone\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\timezone\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#6 C:\OpenServer\domains\timezone\index.php(17): require('C:\\OpenServer\\d...')
+#7 {main}
+  thrown в C:\OpenServer\domains\timezone\wp-content\themes\timezone\header.php на строке 32
+

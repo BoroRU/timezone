@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11d9cf48-09c5-40a2-a753-7bdd887d6e69" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1jJM8FjMvp4c9xsSolZXlrtO8AG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/timezone/woocommerce/myaccount" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\OpenServer\domains\timezone\wp-content\themes\timezone\woocommerce\myaccount" />
+      <recent name="C:\OSPanel\OpenServer\domains\timezone\wp-content\themes\timezone\woocommerce\loop" />
+      <recent name="C:\OSPanel\OpenServer\domains\timezone\wp-content\themes\timezone\woocommerce" />
+      <recent name="C:\OSPanel\OpenServer\domains\timezone\wp-content\themes\timezone\woocommerce\global" />
+      <recent name="C:\OSPanel\OpenServer\domains\timezone\wp-content\themes\timezone" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11d9cf48-09c5-40a2-a753-7bdd887d6e69" name="Default Changelist" comment="" />
+      <created>1603517579563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603517579563</updated>
+      <workItem from="1603517582432" duration="18232000" />
+      <workItem from="1603613167624" duration="9410000" />
+      <workItem from="1603712800686" duration="67000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="794" y="446" key="NewPhpFileDialog" timestamp="1603615408107">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="794" y="446" key="NewPhpFileDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603615408107" />
+    <state x="641" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1603613167190">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="641" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603613167190" />
+    <state x="2561" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1603517583968" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1603534147248">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603534147248" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1603531294349">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1603531294349" />
+  </component>
+</project>
